@@ -1,4 +1,5 @@
 # taller3_GyohanDavidPerdomoAudor
+Participante:Gyohan David Perdomo Audor
 1. Breve descripción del proyecto
 -Este proyecto consiste en leer archivos DICOM, que son las imágenes usadas en medicina (por ejemplo TAC, resonancias o rayos X). A partir de estos archivos se extraen datos del paciente y del estudio, como fecha, modalidad, tamaño de la imagen y también el promedio de la intensidad de los pixeles. Luego, toda esta información se organiza y se guarda en un archivo CSV, que es una forma sencilla de almacenar datos en tablas. Además, el programa permite ver los cortes principales de la imagen (axial, sagital y coronal), como se hace en los sistemas reales de diagnóstico médico.
 2. Explica brevemente por qué DICOM y HL7 son cruciales para la interoperabilidad en salud y en qué se diferencian conceptualmente.
